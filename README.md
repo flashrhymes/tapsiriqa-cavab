@@ -1,1 +1,1 @@
-^ SUALIN CAVABI YUXARIDADI ^
+^ Assembly,C,ASP.net dillərin haqqında ^

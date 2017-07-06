@@ -1,3 +1,16 @@
-github kodlari yazib yaddasda saxladigimiz ve sonrada onu diger programcilarla boluse bildiyimiz bir cloud sistemidi.
-bundan elave biz yazdigmiz her hansi bir proyekti birge olaraq diger hemkarlarimizla da isleye bilerik.
-github programcilarin facebookudu :D
+Assembly programlastirma dili.
+
+assembly sisteme bagli olaraq isleyir, ve size esas idare gucunu verir,diger dillerde yazsaniz bele bu dil hemuse en ustde olur
+
+ustunlukleri: cox az yer tutur,cox suretli isleyir
+
+zeif yanlari: oyrenilmesi cox cetin dildi, kod baximindan diger dillere gore daha uzundu,sisteme bagli oldugu ucun esas sistem olmasa duzgun islemir
+
+
+C programlasdirma dili.
+
+C programlasdirma dili dunya uzerinde en cox isdifade olunan ve en guclu dillerden biridi
+
+ustunlukleri: bu dili oyrenmek ucun orta seviyeli ingilis dili kifayetdi,kod baximinda sade ve qisadi,
+
+zeiflikleri: kod sistemi qarisiq olduguna gore digerleri terefinden basa dusulmeye biler
